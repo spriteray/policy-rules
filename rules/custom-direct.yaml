@@ -1,0 +1,19 @@
+payload:
+  - DST-PORT, 22
+  - SRC-PORT, 16881
+  - DST-PORT, 16881
+  - DOMAIN-SUFFIX, oojj.de
+  - DOMAIN-SUFFIX, byteslab.net
+  - DOMAIN-SUFFIX, zstaticcdn.com
+  - DOMAIN-SUFFIX, wise.com
+  - DOMAIN-KEYWORD, transferwise
+  - DOMAIN-SUFFIX, dyndns.com
+  - DOMAIN-SUFFIX, totheglory.im
+  - DOMAIN-SUFFIX, whatismyip.com
+  # Plex 远程访问注册与连通性检测
+  - DOMAIN,v4.plex.tv
+  - DOMAIN,servers.plex.tv
+  - DOMAIN-SUFFIX, zoom.us
+  - DOMAIN-SUFFIX, zoom.com.cn
+  - DOMAIN-SUFFIX, zoomapp.cloud
+  - DOMAIN, zdmapi.zoom.us

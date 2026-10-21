@@ -1,0 +1,15 @@
+payload:
+  # AI第三方风控、埋点与客服组件
+  - DOMAIN-SUFFIX,statsig.com
+  - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,sentry.io
+  # 支付风控与人机验证组件
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,arkoselabs.com
+  - DOMAIN-SUFFIX,hcaptcha.com
