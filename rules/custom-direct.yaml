@@ -17,3 +17,6 @@ payload:
   - DOMAIN-SUFFIX, zoom.com.cn
   - DOMAIN-SUFFIX, zoomapp.cloud
   - DOMAIN, zdmapi.zoom.us
+  # Unifi设备
+  - DOMAIN-SUFFIX, ui.com
+  - DOMAIN-SUFFIX,ubnt.com
