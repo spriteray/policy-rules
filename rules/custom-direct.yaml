@@ -22,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,ubnt.com
   # 补充apple_cn_rules
   - DOMAIN,gdmf.apple.com
+  - DOMAIN,bpapi.apple.com
