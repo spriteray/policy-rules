@@ -20,3 +20,5 @@ payload:
   # Unifi设备
   - DOMAIN-SUFFIX, ui.com
   - DOMAIN-SUFFIX,ubnt.com
+  # 补充apple_cn_rules
+  - DOMAIN,gdmf.apple.com
